@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="text_sub">Please enter valid numbers</string>
+    <string name="error_message">Please enter a valid number</string>
+    <string name="result">Result: %1$s</string>
+    <string name="sub_answer">Result: %1$s</string>
+</resources>
